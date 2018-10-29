@@ -10,7 +10,7 @@ Or npm
   npm i
 ```
 
-Runs examples by executing
+Run examples by executing
 ```
   yarn start
 ```
